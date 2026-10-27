@@ -1,0 +1,10 @@
+{
+  "name": "ECEL Peru",
+  "short_name": "ECEL",
+  "description": "Ingenieria y construccion: proyectos, supervision y gestion tecnico-legal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0b10",
+  "theme_color": "#0a0b10"
+}
